@@ -21,7 +21,7 @@
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Привет мир!"
+            android:text="Привет мир !"
             android:gravity="center"
             android:textSize="30sp"
             android:background="@color/teal_200"
@@ -46,7 +46,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:background="#F4CA16"
+            android:backgroundTint="#F07427"
             android:onClick="openEdit"
             android:text="Нажмите чтоб перейти на страницу с EditText"
             android:textColor="@color/white" />
